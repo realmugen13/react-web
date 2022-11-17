@@ -1,0 +1,30 @@
+.about {
+    max-width: 1350px;
+    margin: 0 auto;
+}
+
+
+.about_container {
+    margin-top: 200px;
+    display: flex;
+}
+
+.about_h1 {
+ max-width: 584px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 130%;
+color: #FFFFFF;
+}
+.about_p {
+max-width: 460px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+color: #FFFFFF;
+opacity: 0.7;
+}
